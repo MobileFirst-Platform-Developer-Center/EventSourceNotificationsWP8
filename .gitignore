@@ -206,3 +206,4 @@ FakesAssemblies/
 
 .jazzignore
 /pom.xml
+/.project
